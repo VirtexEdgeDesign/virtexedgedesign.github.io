@@ -1,0 +1,15 @@
+
+body {
+  background-color: #333;
+  padding:10px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#ddd;
+  font-weight:400;
+}
+a{
+    color: #39c;
+    text-decoration:none;
+}
+a:hover {
+    color: #069;
+}
